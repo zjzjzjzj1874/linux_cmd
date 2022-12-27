@@ -1,0 +1,11 @@
+- chmod
+  - `change mode`:控制用户对文件的权限的命令
+  - `only file owner and root can change mode`.只有文件所有者和超级用户可以修改文件权限
+  - [mode结构](./../images/mode-struct.png)
+  - [list -l in computer](./../images/mode.png)
+  - [detail see at](https://www.runoob.com/linux/linux-comm-chmod.html)
+  - 
+  - example
+    - 给所有用户读写执行权限:`chmod 777 a.txt` = `chmod a+rwx a.txt` = `chmod ugo+rwx`
+    - 删除文件所有用户的执行权限: `chmod a-x a.txt` = `chmod ugo-x a.txt`
+    - 给文件拥有者和群组加rwx,其他用户执行权限:`chmod ug+rwx,o+x a.txt` = `chmod 771 a.txt`
