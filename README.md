@@ -45,6 +45,7 @@
   - 系统管理
     - [ ] adduser/useradd
     - [ ] date
+    - [ ] screen
     - [ ] top
     - [ ] ps
     - [ ] exit
@@ -72,6 +73,14 @@
     - [ ] gzip/gunzip
     - [ ] dump
     - [ ] zip/unzip
+  - 其他常用命令
+    - [ ] bc
+    - [ ] tail
+    - [ ] head
+    - [ ] xargs
+    - [ ] ip
+    - [ ] nohup
+    - [ ] killall/pkill
 - Markdown Tutorial
     - :snowboarder:[官方教程](https://markdown.com.cn/extended-syntax/)
     - :bird:[菜鸟教程高级](https://www.runoob.com/markdown/md-advance.html)
