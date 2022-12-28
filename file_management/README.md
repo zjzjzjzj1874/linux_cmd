@@ -4,6 +4,7 @@
   - [mode结构](./../images/mode-struct.png)
   - [list -l in computer](./../images/mode.png)
   - [detail see at](https://www.runoob.com/linux/linux-comm-chmod.html)
+  - syntax `chmod [-cfvR] [--help] [--version] mode file..`
   - example
     - 给所有用户读写执行权限:`chmod 777 a.txt` = `chmod a+rwx a.txt` = `chmod ugo+rwx` = `chmod a=rwx a.txt`
     - 删除文件所有用户的执行权限: `chmod a-x a.txt` = `chmod ugo-x a.txt`
