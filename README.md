@@ -1,6 +1,77 @@
 # linux_cmd
 
-- some cmd of linux
+- Linux CMD
+  - 文件管理
+    - [x] chmod
+    - [ ] chown
+    - [ ] cp
+    - [ ] mv
+    - [ ] find
+    - [ ] which
+    - [ ] whereis
+    - [ ] awk
+    - [ ] scp
+  - 文档编辑
+    - [ ] sort
+    - [ ] uniq
+    - [ ] ex
+    - [ ] grep
+    - [ ] sed
+  - 文件传输
+    - [ ] ftp
+    - [ ] ftpwho
+  - 磁盘管理
+    - [ ] cd 
+    - [ ] df 
+    - [ ] du 
+    - [ ] mkdir 
+    - [ ] stat 
+    - [ ] pwd 
+    - [ ] ls
+  - 磁盘维护
+    - [ ] fdisk
+    - [ ] cfdisk
+    - [ ] sfdisk
+    - [ ] sync
+  - 网络通讯
+    - [ ] telnet
+    - [ ] netconfig
+    - [ ] ifconfig
+    - [ ] httpd
+    - [ ] ping
+    - [ ] netstat
+    - [ ] tty
+    - [ ] tcpdump
+  - 系统管理
+    - [ ] adduser/useradd
+    - [ ] date
+    - [ ] top
+    - [ ] ps
+    - [ ] exit
+    - [ ] sleep
+    - [ ] suspend
+    - [ ] groupdel/groupmod
+    - [ ] kill
+    - [ ] login
+    - [ ] logout
+    - [ ] sudo/su
+    - [ ] who/whoami/whois
+  - 系统设置
+    - [ ] reset
+    - [ ] clear
+    - [ ] alias
+    - [ ] chroot
+    - [ ] crontab
+    - [ ] export
+    - [ ] set/setup/setenv
+    - [ ] ulimit
+    - [ ] resize
+    - [ ] gpasswd
+  - 备份压缩
+    - [ ] ar/tar
+    - [ ] gzip/gunzip
+    - [ ] dump
+    - [ ] zip/unzip
 - Markdown Tutorial
     - :snowboarder:[官方教程](https://markdown.com.cn/extended-syntax/)
     - :bird:[菜鸟教程高级](https://www.runoob.com/markdown/md-advance.html)
