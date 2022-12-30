@@ -1,0 +1,4 @@
+- alias: 设置指令别名
+  - `alias`:列出所有指令别名
+  - `alias lx="ls -l"` :为`ls -l`设置一个别名
+  - alias仅在本次登陆shell的终端生效,如果需要全局全时生效,则需要在.profile或.zshrc等其他文件中设定指令的别名。

@@ -1,3 +1,7 @@
+- mv
+  - `move file`:用来为文件或者文件夹改名,或者移动文件和文件夹
+  - syntax: `move [options] source dest`
+    - `-b`:目标文件或文件夹存在时,在覆盖之前会创建一个备份
 - chmod
   - `change mode`:控制用户对文件的权限的命令
   - `only file owner and root can change mode`.只有文件所有者和超级用户可以修改文件权限

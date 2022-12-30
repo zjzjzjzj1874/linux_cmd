@@ -60,7 +60,7 @@
   - 系统设置
     - [ ] reset
     - [ ] clear
-    - [ ] alias
+    - [x] alias
     - [ ] chroot
     - [ ] crontab
     - [ ] export
