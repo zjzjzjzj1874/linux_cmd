@@ -5,7 +5,7 @@
     - [x] chmod
     - [ ] chown
     - [ ] cp
-    - [ ] mv
+    - [x] mv
     - [ ] find
     - [ ] which
     - [ ] whereis
@@ -59,7 +59,7 @@
     - [ ] who/whoami/whois
   - 系统设置
     - [ ] reset
-    - [ ] clear
+    - [x] clear
     - [x] alias
     - [ ] chroot
     - [ ] crontab

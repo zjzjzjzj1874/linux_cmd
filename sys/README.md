@@ -1,3 +1,4 @@
+- clear: 清屏
 - alias: 设置指令别名
   - `alias`:列出所有指令别名
   - `alias lx="ls -l"` :为`ls -l`设置一个别名
